@@ -3,7 +3,7 @@
 # carb.chem
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #
-A simple model for exploring the links between the sedimentary rock cycle, electron transfer, and carbonate chemistry in the oceans
+A simple model for exploring the links between the sedimentary rock cycle, electron transfer, and carbonate chemistry in the oceans [DOI TEST]
 #
 The model solves for ocean-atmosphere carbon cycling and marine carbonate chemistry based on parameterized fluxes through the sedimentary rock cycle.  All model equations and parameters are described in detail in the Supplementary Information to C.T. Reinhard and W.W. Fischer [2020] "Mechanistic links between the sedimentary rock cycle and marine acid-base chemistry", Geochemistry, Geophysics, Geosystems, doi:.  These scripts will spin up the model, perform the time-dependent perturbation analyses, and reproduce all figures from C.T. Reinhard + W.W. Fischer [2020]. 
 #
